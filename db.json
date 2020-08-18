@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Friend",
+      "phone": "+38099565564",
+      "id": 4
+    },
+    {
+      "name": "Vasia",
+      "phone": "+380990734570",
+      "id": 5
+    },
+    {
+      "name": "dsaas",
+      "phone": "EW",
+      "age": "23",
+      "id": 6
+    },
+    {
+      "name": "Ruslan Robotko",
+      "phone": "46549878456wee",
+      "age": "22",
+      "email": "ss",
+      "friends": "44",
+      "id": 7
+    },
+    {
+      "name": "Sam",
+      "phone": "+380990734570",
+      "age": "22",
+      "id": 8
+    },
+    {
+      "name": "333",
+      "phone": "333",
+      "age": "333",
+      "email": "333",
+      "password": "333",
+      "id": 9
+    },
+    {
+      "name": "444",
+      "phone": "444",
+      "age": "444",
+      "email": "444",
+      "password": "444",
+      "id": 10
+    },
+    {
+      "name": "Lena Sklyarova",
+      "phone": "+380668798465",
+      "age": "30",
+      "email": "ld[pfl[dfl@fusdi.ru",
+      "password": "2222",
+      "id": 12
+    }
+  ]
+}
